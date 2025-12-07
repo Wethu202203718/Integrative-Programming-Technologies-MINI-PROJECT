@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ITStudent>
+  <Name>Abigail Johnson</Name>
+  <StudentID>63663230</StudentID>
+  <Programme>AI &amp; Machine Learning</Programme>
+  <Courses>
+    <Course name="Networking" mark="70.13"/>
+    <Course name="Mobile Development" mark="70.83"/>
+    <Course name="Cloud Computing" mark="47.14"/>
+    <Course name="Programming" mark="44.59"/>
+  </Courses>
+</ITStudent>

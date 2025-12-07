@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ITStudent>
+  <Name>Thomas Smith</Name>
+  <StudentID>52472262</StudentID>
+  <Programme>AI &amp; Machine Learning</Programme>
+  <Courses>
+    <Course name="Cloud Computing" mark="50.16"/>
+    <Course name="OS" mark="58.54"/>
+    <Course name="Data Structures" mark="40.38"/>
+    <Course name="Mobile Development" mark="58.78"/>
+  </Courses>
+</ITStudent>

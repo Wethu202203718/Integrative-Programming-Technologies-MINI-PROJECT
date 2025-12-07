@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<ITStudent>
+  <Name>David Martin</Name>
+  <StudentID>96890794</StudentID>
+  <Programme>Computer Engineering</Programme>
+  <Courses>
+    <Course name="Cloud Computing" mark="43.63"/>
+    <Course name="Data Structures" mark="91.76"/>
+    <Course name="Database" mark="40.83"/>
+    <Course name="Web Development" mark="96.36"/>
+    <Course name="Algorithms" mark="91.56"/>
+    <Course name="Programming" mark="44.67"/>
+  </Courses>
+</ITStudent>
