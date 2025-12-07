@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ITStudent>
+  <Name>Abigail Garcia</Name>
+  <StudentID>69742247</StudentID>
+  <Programme>Data Science</Programme>
+  <Courses>
+    <Course name="Networking" mark="91.75"/>
+    <Course name="Web Development" mark="91.58"/>
+    <Course name="Database" mark="30.93"/>
+    <Course name="Programming" mark="78.77"/>
+  </Courses>
+</ITStudent>
